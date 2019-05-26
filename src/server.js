@@ -22,6 +22,8 @@ class App {
       expres: this.express,
       autoescape: true
     })
+
+    this.express.set('view engine', 'njk')
   }
 
   routes () {
