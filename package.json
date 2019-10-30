@@ -29,6 +29,6 @@
     "nunjucks-date-filter": "^0.1.1",
     "nunjucks-date-filter-local": "^0.1.2",
     "pg": "^7.11.0",
-    "sequelize": "^5.8.6"
+    "sequelize": "^5.15.1"
   }
 }
